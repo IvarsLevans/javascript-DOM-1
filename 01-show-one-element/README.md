@@ -1,21 +1,7 @@
-# DOM Atomic 01: Show One Element
+# DOM Exercises
 
-## Description
+These exercises are based on actual tasks web developers use JavaScript for. They all are based on listening for events and modifying the DOM in some way.
 
-You've seen this all over the Web: Some truncated text following by a link--"Show more..."--which reveals the rest of the text.
+For some of the exercises, you'll be given starter HTML and/or JavaScript; but this may not always be the case. The exercises sort-of build in difficulty.
 
-![](http://cl.ly/fNdR/Screen%20Recording%202016-03-09%20at%2011.21%20PM.gif)
-
-This is a simple JavaScript feature, which listens for a **click** event on the "Show more..." link and un-hides some element in the DOM.
-
-We've provided starter HTML and JavaScript for you. Review those files and open **index.html**.
-
-## Tasks
-
-The only task is to add code to **global.js** that accomplishes the following:
-
-- Clicking the 'Show more...' link reveals the hidden text.
-
-## Questions
-
-Don't forget to answer the [questions](./QUESTIONS.md).
+Some of the exercises have an accompanying **QUESTIONS.md** file, which contains one or more questions about the exercise for you to answer.
